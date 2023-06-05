@@ -23,13 +23,15 @@ Unlike many other guides I will not explain how to code, nor tell you what you s
 - How to set up a map (search for tutorials on youtube or go the beat saber mapping discord server) or a script (for this you can go to the installation process of remapper).
 - How to map/Use Chromapper.
 - How to script in any language.
+- How to use blender
 
-## Before Starting.
+## Before Starting!
 Check that you have the following things.
 - Coding/JSON knowledge
 - Beat Saber lol (better on pc and even better on steam)
 - Chromapper (use dev release. change in settings. this allows to map in v3)
 - Visual Studio Code (or anything that you can code in)
+- Blender (needed for blender to EE/Geometry)
 
 </br>
 </br>
