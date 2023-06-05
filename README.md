@@ -31,4 +31,8 @@ Check that you have the following things.
 - Chromapper (use dev release. change in settings. this allows to map in v3)
 - Visual Studio Code (or anything that you can code in)
 
+</br>
+</br>
+</br>
 
+**[I READ EVERYTHING AND IM READING TO START](https://github.com/TzurS11/noodle-guide/wiki)**
