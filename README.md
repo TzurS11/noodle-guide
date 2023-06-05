@@ -37,4 +37,4 @@ Check that you have the following things.
 </br>
 </br>
 
-**[I READ EVERYTHING AND IM READING TO START](https://github.com/TzurS11/noodle-guide/wiki)**
+**[I READ EVERYTHING AND IM READY TO START](https://github.com/TzurS11/noodle-guide/wiki)**
