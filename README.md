@@ -22,7 +22,7 @@ Unlike many other guides I will not explain how to code, nor tell you what you s
 ### This guide doesn't include
 - How to set up a map (search for tutorials on youtube or go the beat saber mapping discord server) or a script (for this you can go to the installation process of remapper).
 - How to map/Use Chromapper.
-- How to script in any language.
+- How to code in any language.
 - How to use blender
 
 ## Before Starting!
