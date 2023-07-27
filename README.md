@@ -12,11 +12,10 @@ I will cover the structure of the of NE and EE and analyze some effects you can 
 The reason why you should use this guide is because there aren't many guides that cover what I mentioned above.  
 Unlike many other guides I will not explain how to code, nor tell you what you should use (although in this guide I will use the remapper framework made for typescript by swifter, I will show examples of plain json as well)
 
-**This guide is for beginners only.**
+**This guide is for beginners only.** If you already have experience with NE and EE then you wont find anything new here.
 
 ### This guide includes
-- The basics of NE and EE
-- Analyzation of well known modcharts.
+- The basics of NE and EE.
 - The basics of Remapper.
 
 ### This guide doesn't include
@@ -27,11 +26,11 @@ Unlike many other guides I will not explain how to code, nor tell you what you s
 
 ## Before Starting!
 Check that you have the following things.
-- Coding/JSON knowledge
-- Beat Saber lol (better on pc and even better on steam)
-- Chromapper (use dev release. change in settings. this allows to map in v3)
-- Visual Studio Code (or anything that you can code in)
-- Blender (needed for blender to EE/Geometry)
+- Coding/JSON knowledge.
+- Beat Saber lol (better on pc and even better on steam).
+- Chromapper (use dev release. change in settings. this allows to map in v3).
+- Visual Studio Code (or anything that you can code in).
+- Blender (needed for blender to Environment/Geometry).
 
 </br>
 </br>
