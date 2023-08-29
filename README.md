@@ -19,7 +19,7 @@ Unlike many other guides I will not explain how to code, nor tell you what you s
 - The basics of Remapper (i will not teach anything complex. you will just see some example of how to write in json and typescript).
 
 ### This guide doesn't include
-- How to set up a map (search for tutorials on youtube or go the beat saber mapping discord server) or a script (for this you can go to the installation process of remapper).
+- How to set up a map (search for tutorials on youtube or go the beat saber mapping discord server) or a script (for this you can go to the installation process of remapper or any other framework or a just a script).
 - How to map/Use Chromapper.
 - How to code in any language.
 - How to use blender
@@ -30,7 +30,7 @@ Check that you have the following things.
 - Beat Saber lol (better on pc and even better on steam).
 - Chromapper (use dev release. change in settings. this allows to map in v3).
 - Visual Studio Code (or anything that you can code in).
-- Blender (needed for blender to Environment/Geometry).
+- Blender (only needed for blender to Environment/Geometry).
 
 </br>
 </br>
