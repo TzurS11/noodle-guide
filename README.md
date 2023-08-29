@@ -8,7 +8,7 @@ From now on remember that
 - Noodle Extensions = NE
 - Chroma's envioronment enhancement = EE  
 
-I will cover the structure of the of NE and EE and analyze some effects you can see in the best rated and best modcharts.  
+I will cover the structure of the of NE and EE so even dumb peole like me could understand.
 The reason why you should use this guide is because there aren't many guides that cover what I mentioned above.  
 Unlike many other guides I will not explain how to code, nor tell you what you should use (although in this guide I will use the remapper framework made for typescript by swifter, I will show examples of plain json as well)
 
