@@ -16,7 +16,7 @@ Unlike many other guides I will not explain how to code, nor tell you what you s
 
 ### This guide includes
 - The basics of NE and EE.
-- The basics of Remapper.
+- The basics of Remapper (i will not teach anything complex. you will just see some example of how to write in json and typescript).
 
 ### This guide doesn't include
 - How to set up a map (search for tutorials on youtube or go the beat saber mapping discord server) or a script (for this you can go to the installation process of remapper).
