@@ -1,4 +1,4 @@
-# V PLEASE READ EVERYTHING BELOW BEFORE STARTING V
+# PLEASE READ EVERYTHING BELOW BEFORE STARTING!
 
 ## Is Modcharting For Me?
 it's easier than ever to create a beat saber map for many reasons but you still need motivation and time for practice because without practicing and motivation you wont get far.  
